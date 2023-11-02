@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kAc7Ws0e7+V8g3mDWXgZFmqzKSSA/D1y0VhVnKPWsOQga0VCQk9YrBKXQhzurx4iWcS9yzASWHInF+QDM2vBCg==",
+  "dgSpecHash": "+831Cv6C2FcZ5+vb2KnnjtU5PMqjgEQmJlZrOVvfHh1DCgsKYtIncpx+hbu36GYGp1l7nD1TnGuNmYbiKVX+xw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\w67235\\Documents\\Lab2\\Lab2\\Lab2.csproj",
+  "projectFilePath": "C:\\Users\\w67235\\Documents\\Obiektowe_Programowanie\\Lab2\\Lab2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\w67235\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
   ],
